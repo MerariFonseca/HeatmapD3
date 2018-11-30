@@ -1,0 +1,573 @@
+﻿"type_est","modulo","course_branch_lesson_name","item","course_item_type_desc","part_modulo","part_leccion","part_item","prom_intentos","completitud_modulo","completitud_lec"
+A,Bienvenida,Bienvenida al curso,Bienvenida,lecture,78,78,39,,0.7960526315789473,0.7960526315789473
+A,Bienvenida,Bienvenida al curso,Presentación del curso,others,78,78,1,,0.7960526315789473,0.7960526315789473
+A,Bienvenida,Bienvenida al curso,Introducción al curso,lecture,78,78,37,,0.7960526315789473,0.7960526315789473
+A,Bienvenida,Bienvenida al curso,Recomendaciones para el éxito,others,78,78,1,,0.7960526315789473,0.7960526315789473
+A,Números naturales y sistemas de numeración,Origen de los números naturales,Origen de los números naturales,lecture,374,139,36,,0.6264367816091954,0.876984126984127
+A,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual del origen de los números naturales,supplement,374,139,,,0.6264367816091954,0.876984126984127
+A,Números naturales y sistemas de numeración,Origen de los números naturales,¿Qué sabes del número natural?,quiz,374,139,35,,0.6264367816091954,0.876984126984127
+A,Números naturales y sistemas de numeración,Origen de los números naturales,Historia de los números naturales,lecture,374,139,33,,0.6264367816091954,0.876984126984127
+A,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual de la historia de los números naturales,supplement,374,139,,,0.6264367816091954,0.876984126984127
+A,Números naturales y sistemas de numeración,Origen de los números naturales,Relación de correspondencia,quiz,374,139,32,,0.6264367816091954,0.876984126984127
+A,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,374,139,3,,0.6264367816091954,0.876984126984127
+A,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,374,44,33,,0.6264367816091954,0.7741935483870968
+A,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,374,44,,,0.6264367816091954,0.7741935483870968
+A,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,374,44,8,,0.6264367816091954,0.7741935483870968
+A,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,374,44,3,,0.6264367816091954,0.7741935483870968
+A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,374,64,29,,0.6264367816091954,0.8275862068965518
+A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,374,64,29,,0.6264367816091954,0.8275862068965518
+A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,374,64,,,0.6264367816091954,0.8275862068965518
+A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,374,64,1,,0.6264367816091954,0.8275862068965518
+A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,374,64,5,,0.6264367816091954,0.8275862068965518
+A,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,374,44,21,,0.6264367816091954,0.7604166666666666
+A,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,374,44,22,,0.6264367816091954,0.7604166666666666
+A,Números naturales y sistemas de numeración,Representación de los números naturales,Mapa conceptual de las representaciones de los números naturales,supplement,374,44,,,0.6264367816091954,0.7604166666666666
+A,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,374,44,1,,0.6264367816091954,0.7604166666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,¿Qué es el  sistema  decimal de  numeración  ?,lecture,374,83,23,,0.6264367816091954,0.6666666666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del sistema decimal de numeración,supplement,374,83,,,0.6264367816091954,0.6666666666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Sistemas de numeración,quiz,374,83,17,,0.6264367816091954,0.6666666666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Reglas del sistema de numeración (actividad de aprendizaje),ungraded lti,374,83,3,,0.6264367816091954,0.6666666666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,374,83,19,,0.6264367816091954,0.6666666666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,374,83,,,0.6264367816091954,0.6666666666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,374,83,,,0.6264367816091954,0.6666666666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,374,83,21,1.7619047619047619,0.6264367816091954,0.6666666666666666
+A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,374,83,,,0.6264367816091954,0.6666666666666666
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,178,45,23,,0.5925324675324676,0.8636363636363636
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,178,45,,,0.5925324675324676,0.8636363636363636
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,178,45,21,,0.5925324675324676,0.8636363636363636
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,178,45,,,0.5925324675324676,0.8636363636363636
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,178,45,1,,0.5925324675324676,0.8636363636363636
+A,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,178,41,20,,0.5925324675324676,0.8625
+A,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,178,41,,,0.5925324675324676,0.8625
+A,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,178,41,19,,0.5925324675324676,0.8625
+A,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,178,41,2,,0.5925324675324676,0.8625
+A,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,178,21,20,,0.5925324675324676,0.8833333333333332
+A,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,178,21,,,0.5925324675324676,0.8833333333333332
+A,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,178,21,1,,0.5925324675324676,0.8833333333333332
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,178,19,16,,0.5925324675324676,0.7794117647058824
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,178,19,,,0.5925324675324676,0.7794117647058824
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,178,19,1,,0.5925324675324676,0.7794117647058824
+A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,178,19,2,,0.5925324675324676,0.7794117647058824
+A,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,178,20,12,,0.5925324675324676,0.775
+A,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,178,20,,,0.5925324675324676,0.775
+A,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,178,20,7,,0.5925324675324676,0.775
+A,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,178,20,1,,0.5925324675324676,0.775
+A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,178,32,9,,0.5925324675324676,0.6153846153846154
+A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,178,32,,,0.5925324675324676,0.6153846153846154
+A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,178,32,1,,0.5925324675324676,0.6153846153846154
+A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,178,32,10,,0.5925324675324676,0.6153846153846154
+A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,178,32,,,0.5925324675324676,0.6153846153846154
+A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,178,32,,,0.5925324675324676,0.6153846153846154
+A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,178,32,12,1.7500000000000000,0.5925324675324676,0.6153846153846154
+A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,178,32,,,0.5925324675324676,0.6153846153846154
+A,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,96,34,13,,0.5238095238095238,0.7380952380952381
+A,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,96,34,,,0.5238095238095238,0.7380952380952381
+A,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,96,34,9,,0.5238095238095238,0.7380952380952381
+A,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,96,34,1,,0.5238095238095238,0.7380952380952381
+A,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,96,34,10,,0.5238095238095238,0.7380952380952381
+A,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,96,34,,,0.5238095238095238,0.7380952380952381
+A,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,96,34,1,,0.5238095238095238,0.7380952380952381
+A,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,96,19,9,,0.5238095238095238,0.75
+A,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,96,19,,,0.5238095238095238,0.75
+A,Números racionales,Significados de los números racionales,Números racionales,quiz,96,19,8,,0.5238095238095238,0.75
+A,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,96,19,2,,0.5238095238095238,0.75
+A,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,96,13,7,,0.5238095238095238,0.8214285714285714
+A,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,96,13,,,0.5238095238095238,0.8214285714285714
+A,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,96,13,6,,0.5238095238095238,0.8214285714285714
+A,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,96,13,,,0.5238095238095238,0.8214285714285714
+A,Números racionales,Decimales,Números decimales,lecture,96,7,7,,0.5238095238095238,0.7142857142857143
+A,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,96,7,,,0.5238095238095238,0.7142857142857143
+A,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,96,7,,,0.5238095238095238,0.7142857142857143
+A,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,96,7,,,0.5238095238095238,0.7142857142857143
+A,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,96,23,7,,0.5238095238095238,0.8148148148148149
+A,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,96,23,,,0.5238095238095238,0.8148148148148149
+A,Números racionales,Razón y proporción,Cantidad desconocida,quiz,96,23,5,,0.5238095238095238,0.8148148148148149
+A,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,96,23,6,,0.5238095238095238,0.8148148148148149
+A,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,96,23,,,0.5238095238095238,0.8148148148148149
+A,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,96,23,,,0.5238095238095238,0.8148148148148149
+A,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,96,23,,,0.5238095238095238,0.8148148148148149
+A,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,96,23,5,1.6000000000000000,0.5238095238095238,0.8148148148148149
+A,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,96,23,,,0.5238095238095238,0.8148148148148149
+A,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,55,19,7,,0.6130952380952381,0.8571428571428571
+A,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,55,19,,,0.6130952380952381,0.8571428571428571
+A,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,55,19,6,,0.6130952380952381,0.8571428571428571
+A,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,55,19,6,,0.6130952380952381,0.8571428571428571
+A,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,55,19,,,0.6130952380952381,0.8571428571428571
+A,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,55,19,,,0.6130952380952381,0.8571428571428571
+A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,55,11,6,,0.6130952380952381,0.75
+A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,55,11,,,0.6130952380952381,0.75
+A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,55,11,5,,0.6130952380952381,0.75
+A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,55,11,,,0.6130952380952381,0.75
+A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,55,9,5,,0.6130952380952381,0.72
+A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,55,9,,,0.6130952380952381,0.72
+A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,55,9,4,,0.6130952380952381,0.72
+A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,55,9,,,0.6130952380952381,0.72
+A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,55,9,,,0.6130952380952381,0.72
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,55,16,5,,0.6130952380952381,0.6888888888888889
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,55,16,,,0.6130952380952381,0.6888888888888889
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,55,16,,,0.6130952380952381,0.6888888888888889
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,55,16,3,,0.6130952380952381,0.6888888888888889
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,55,16,4,,0.6130952380952381,0.6888888888888889
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,55,16,,,0.6130952380952381,0.6888888888888889
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del módulo,supplement,55,16,,,0.6130952380952381,0.6888888888888889
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,55,16,4,3.0000000000000000,0.6130952380952381,0.6888888888888889
+A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Bibliografía geometría elemental del plano,supplement,55,16,,,0.6130952380952381,0.6888888888888889
+A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,19,8,3,,0.4871794871794872,0.7142857142857143
+A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,19,8,,,0.4871794871794872,0.7142857142857143
+A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,19,8,3,,0.4871794871794872,0.7142857142857143
+A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,19,8,2,,0.4871794871794872,0.7142857142857143
+A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,19,8,,,0.4871794871794872,0.7142857142857143
+A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,19,8,,,0.4871794871794872,0.7142857142857143
+A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,19,8,,,0.4871794871794872,0.7142857142857143
+A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,19,2,2,,0.4871794871794872,0.5
+A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,19,2,,,0.4871794871794872,0.5
+A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,19,2,,,0.4871794871794872,0.5
+A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,19,2,,,0.4871794871794872,0.5
+A,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,19,2,2,,0.4871794871794872,0.6666666666666666
+A,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,19,2,,,0.4871794871794872,0.6666666666666666
+A,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,19,2,,,0.4871794871794872,0.6666666666666666
+A,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,19,2,2,,0.4871794871794872,0.5
+A,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,19,2,,,0.4871794871794872,0.5
+A,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,19,2,,,0.4871794871794872,0.5
+A,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,19,2,,,0.4871794871794872,0.5
+A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,19,5,2,,0.4871794871794872,0.6875
+A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,19,5,,,0.4871794871794872,0.6875
+A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,19,5,,,0.4871794871794872,0.6875
+A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,19,5,2,,0.4871794871794872,0.6875
+A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,19,5,,,0.4871794871794872,0.6875
+A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,19,5,,,0.4871794871794872,0.6875
+A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,19,5,1,1.00000000000000000000,0.4871794871794872,0.6875
+A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,19,5,,,0.4871794871794872,0.6875
+A,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,4,4,,,0.6666666666666666,0.6666666666666666
+A,Aplicación de los conceptos aprendidos,Cierre del curso,Mapa conceptual de los conceptos aprendidos en el curso,supplement,4,4,,,0.6666666666666666,0.6666666666666666
+A,Aplicación de los conceptos aprendidos,Cierre del curso,Aplicación de los conceptos aprendidos,quiz,4,4,2,,0.6666666666666666,0.6666666666666666
+A,Aplicación de los conceptos aprendidos,Cierre del curso,Video de cierre del curso,lecture,4,4,2,,0.6666666666666666,0.6666666666666666
+N,Bienvenida,Bienvenida al curso,Bienvenida,lecture,475,475,274,,0.5413306451612904,0.5413306451612904
+N,Bienvenida,Bienvenida al curso,Presentación del curso,others,475,475,,,0.5413306451612904,0.5413306451612904
+N,Bienvenida,Bienvenida al curso,Introducción al curso,lecture,475,475,201,,0.5413306451612904,0.5413306451612904
+N,Bienvenida,Bienvenida al curso,Recomendaciones para el éxito,others,475,475,,,0.5413306451612904,0.5413306451612904
+N,Números naturales y sistemas de numeración,Origen de los números naturales,Origen de los números naturales,lecture,1318,670,193,,0.41004109344291595,0.738219895287958
+N,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual del origen de los números naturales,supplement,1318,670,,,0.41004109344291595,0.738219895287958
+N,Números naturales y sistemas de numeración,Origen de los números naturales,¿Qué sabes del número natural?,quiz,1318,670,178,,0.41004109344291595,0.738219895287958
+N,Números naturales y sistemas de numeración,Origen de los números naturales,Historia de los números naturales,lecture,1318,670,157,,0.41004109344291595,0.738219895287958
+N,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual de la historia de los números naturales,supplement,1318,670,,,0.41004109344291595,0.738219895287958
+N,Números naturales y sistemas de numeración,Origen de los números naturales,Relación de correspondencia,quiz,1318,670,141,,0.41004109344291595,0.738219895287958
+N,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,1318,670,1,,0.41004109344291595,0.738219895287958
+N,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,1318,110,108,,0.41004109344291595,0.8025
+N,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,1318,110,,,0.41004109344291595,0.8025
+N,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,1318,110,2,,0.41004109344291595,0.8025
+N,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,1318,110,,,0.41004109344291595,0.8025
+N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,1318,161,85,,0.41004109344291595,0.8683544303797464
+N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,1318,161,76,,0.41004109344291595,0.8683544303797464
+N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,1318,161,,,0.41004109344291595,0.8683544303797464
+N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,1318,161,,,0.41004109344291595,0.8683544303797464
+N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,1318,161,,,0.41004109344291595,0.8683544303797464
+N,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,1318,143,75,,0.41004109344291595,0.8297101449275363
+N,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,1318,143,68,,0.41004109344291595,0.8297101449275363
+N,Números naturales y sistemas de numeración,Representación de los números naturales,Mapa conceptual de las representaciones de los números naturales,supplement,1318,143,,,0.41004109344291595,0.8297101449275363
+N,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,1318,143,,,0.41004109344291595,0.8297101449275363
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,¿Qué es el  sistema  decimal de  numeración  ?,lecture,1318,234,58,,0.41004109344291595,0.7204861111111108
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del sistema decimal de numeración,supplement,1318,234,,,0.41004109344291595,0.7204861111111108
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Sistemas de numeración,quiz,1318,234,59,,0.41004109344291595,0.7204861111111108
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Reglas del sistema de numeración (actividad de aprendizaje),ungraded lti,1318,234,,,0.41004109344291595,0.7204861111111108
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,1318,234,49,,0.41004109344291595,0.7204861111111108
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,1318,234,,,0.41004109344291595,0.7204861111111108
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,1318,234,,,0.41004109344291595,0.7204861111111108
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,1318,234,68,1.5000000000000000,0.41004109344291595,0.7204861111111108
+N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,1318,234,,,0.41004109344291595,0.7204861111111108
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,268,99,53,,0.3584656084656085,0.7529411764705881
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,268,99,,,0.3584656084656085,0.7529411764705881
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,268,99,46,,0.3584656084656085,0.7529411764705881
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,268,99,,,0.3584656084656085,0.7529411764705881
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,268,99,,,0.3584656084656085,0.7529411764705881
+N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,268,57,29,,0.3584656084656085,0.8362068965517241
+N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,268,57,,,0.3584656084656085,0.8362068965517241
+N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,268,57,28,,0.3584656084656085,0.8362068965517241
+N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,268,57,,,0.3584656084656085,0.8362068965517241
+N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,268,20,20,,0.3584656084656085,0.857142857142857
+N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,268,20,,,0.3584656084656085,0.857142857142857
+N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,268,20,,,0.3584656084656085,0.857142857142857
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,268,18,18,,0.3584656084656085,0.75
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,268,18,,,0.3584656084656085,0.75
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,268,18,,,0.3584656084656085,0.75
+N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,268,18,,,0.3584656084656085,0.75
+N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,268,34,17,,0.3584656084656085,0.7647058823529411
+N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,268,34,,,0.3584656084656085,0.7647058823529411
+N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,268,34,17,,0.3584656084656085,0.7647058823529411
+N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,268,34,,,0.3584656084656085,0.7647058823529411
+N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,268,40,13,,0.3584656084656085,0.8653846153846154
+N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,268,40,,,0.3584656084656085,0.8653846153846154
+N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,268,40,,,0.3584656084656085,0.8653846153846154
+N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,268,40,12,,0.3584656084656085,0.8653846153846154
+N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,268,40,,,0.3584656084656085,0.8653846153846154
+N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,268,40,,,0.3584656084656085,0.8653846153846154
+N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,268,40,15,1.4666666666666667,0.3584656084656085,0.8653846153846154
+N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,268,40,,,0.3584656084656085,0.8653846153846154
+N,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,116,37,13,,0.5521978021978021,0.7261904761904763
+N,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,116,37,,,0.5521978021978021,0.7261904761904763
+N,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,116,37,14,,0.5521978021978021,0.7261904761904763
+N,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,116,37,,,0.5521978021978021,0.7261904761904763
+N,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,116,37,10,,0.5521978021978021,0.7261904761904763
+N,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,116,37,,,0.5521978021978021,0.7261904761904763
+N,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,116,37,,,0.5521978021978021,0.7261904761904763
+N,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,116,18,8,,0.5521978021978021,0.75
+N,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,116,18,,,0.5521978021978021,0.75
+N,Números racionales,Significados de los números racionales,Números racionales,quiz,116,18,10,,0.5521978021978021,0.75
+N,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,116,18,,,0.5521978021978021,0.75
+N,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,116,18,8,,0.5521978021978021,0.7222222222222222
+N,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,116,18,,,0.5521978021978021,0.7222222222222222
+N,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,116,18,10,,0.5521978021978021,0.7222222222222222
+N,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,116,18,,,0.5521978021978021,0.7222222222222222
+N,Números racionales,Decimales,Números decimales,lecture,116,8,8,,0.5521978021978021,0.7857142857142857
+N,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,116,8,,,0.5521978021978021,0.7857142857142857
+N,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,116,8,,,0.5521978021978021,0.7857142857142857
+N,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,116,8,,,0.5521978021978021,0.7857142857142857
+N,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,116,35,8,,0.5521978021978021,0.802469135802469
+N,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,116,35,,,0.5521978021978021,0.802469135802469
+N,Números racionales,Razón y proporción,Cantidad desconocida,quiz,116,35,10,,0.5521978021978021,0.802469135802469
+N,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,116,35,8,,0.5521978021978021,0.802469135802469
+N,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,116,35,,,0.5521978021978021,0.802469135802469
+N,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,116,35,,,0.5521978021978021,0.802469135802469
+N,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,116,35,,,0.5521978021978021,0.802469135802469
+N,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,116,35,9,1.7777777777777778,0.5521978021978021,0.802469135802469
+N,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,116,35,,,0.5521978021978021,0.802469135802469
+N,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,68,22,8,,0.5,0.7380952380952381
+N,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,68,22,,,0.5,0.7380952380952381
+N,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,68,22,7,,0.5,0.7380952380952381
+N,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,68,22,7,,0.5,0.7380952380952381
+N,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,68,22,,,0.5,0.7380952380952381
+N,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,68,22,,,0.5,0.7380952380952381
+N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,68,13,6,,0.5,0.7083333333333334
+N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,68,13,,,0.5,0.7083333333333334
+N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,68,13,7,,0.5,0.7083333333333334
+N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,68,13,,,0.5,0.7083333333333334
+N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,68,11,5,,0.5,0.6
+N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,68,11,,,0.5,0.6
+N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,68,11,6,,0.5,0.6
+N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,68,11,,,0.5,0.6
+N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,68,11,,,0.5,0.6
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,68,22,5,,0.5,0.6666666666666667
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,68,22,,,0.5,0.6666666666666667
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,68,22,,,0.5,0.6666666666666667
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,68,22,6,,0.5,0.6666666666666667
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,68,22,5,,0.5,0.6666666666666667
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,68,22,,,0.5,0.6666666666666667
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del módulo,supplement,68,22,,,0.5,0.6666666666666667
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,68,22,6,1.8333333333333333,0.5,0.6666666666666667
+N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Bibliografía geometría elemental del plano,supplement,68,22,,,0.5,0.6666666666666667
+N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,5,3,1,,0.08653846153846155,0.5714285714285714
+N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,5,3,,,0.08653846153846155,0.5714285714285714
+N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,5,3,1,,0.08653846153846155,0.5714285714285714
+N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,5,3,1,,0.08653846153846155,0.5714285714285714
+N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,5,3,,,0.08653846153846155,0.5714285714285714
+N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,5,3,,,0.08653846153846155,0.5714285714285714
+N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,5,3,,,0.08653846153846155,0.5714285714285714
+N,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,5,,,,0.08653846153846155,0.5
+N,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,5,,,,0.08653846153846155,0.5
+N,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,5,,,,0.08653846153846155,0.5
+N,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,5,,,,0.08653846153846155,0.5
+N,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,5,,,,0.08653846153846155,
+N,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,5,,,,0.08653846153846155,
+N,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,5,,,,0.08653846153846155,
+N,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,5,1,1,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,5,1,,,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,5,1,1,2.0000000000000000,0.08653846153846155,0.25
+N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,5,1,,,0.08653846153846155,0.25
+N,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,2,2,,,0.625,0.625
+N,Aplicación de los conceptos aprendidos,Cierre del curso,Mapa conceptual de los conceptos aprendidos en el curso,supplement,2,2,,,0.625,0.625
+N,Aplicación de los conceptos aprendidos,Cierre del curso,Aplicación de los conceptos aprendidos,quiz,2,2,1,,0.625,0.625
+N,Aplicación de los conceptos aprendidos,Cierre del curso,Video de cierre del curso,lecture,2,2,1,,0.625,0.625
+NE,Bienvenida,Bienvenida al curso,Bienvenida,lecture,26,26,15,,0.625,0.625
+NE,Bienvenida,Bienvenida al curso,Presentación del curso,others,26,26,,,0.625,0.625
+NE,Bienvenida,Bienvenida al curso,Introducción al curso,lecture,26,26,11,,0.625,0.625
+NE,Bienvenida,Bienvenida al curso,Recomendaciones para el éxito,others,26,26,,,0.625,0.625
+NE,Números naturales y sistemas de numeración,Origen de los números naturales,Origen de los números naturales,lecture,64,29,10,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual del origen de los números naturales,supplement,64,29,,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Origen de los números naturales,¿Qué sabes del número natural?,quiz,64,29,7,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Origen de los números naturales,Historia de los números naturales,lecture,64,29,5,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual de la historia de los números naturales,supplement,64,29,,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Origen de los números naturales,Relación de correspondencia,quiz,64,29,7,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,64,29,,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,64,5,5,,0.371647509578544,0.7
+NE,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,64,5,,,0.371647509578544,0.7
+NE,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,64,5,,,0.371647509578544,0.7
+NE,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,64,5,,,0.371647509578544,0.7
+NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,64,8,5,,0.371647509578544,0.7333333333333334
+NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,64,8,3,,0.371647509578544,0.7333333333333334
+NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,64,8,,,0.371647509578544,0.7333333333333334
+NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,64,8,,,0.371647509578544,0.7333333333333334
+NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,64,8,,,0.371647509578544,0.7333333333333334
+NE,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,64,7,4,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,64,7,3,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Representación de los números naturales,Mapa conceptual de las representaciones de los números naturales,supplement,64,7,,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,64,7,,,0.371647509578544,0.6666666666666666
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,¿Qué es el  sistema  decimal de  numeración  ?,lecture,64,15,3,,0.371647509578544,0.611111111111111
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del sistema decimal de numeración,supplement,64,15,,,0.371647509578544,0.611111111111111
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Sistemas de numeración,quiz,64,15,5,,0.371647509578544,0.611111111111111
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Reglas del sistema de numeración (actividad de aprendizaje),ungraded lti,64,15,,,0.371647509578544,0.611111111111111
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,64,15,3,,0.371647509578544,0.611111111111111
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,64,15,,,0.371647509578544,0.611111111111111
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,64,15,,,0.371647509578544,0.611111111111111
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,64,15,4,1.2500000000000000,0.371647509578544,0.611111111111111
+NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,64,15,,,0.371647509578544,0.611111111111111
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,21,4,2,,0.4761904761904762,0.9
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,21,4,,,0.4761904761904762,0.9
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,21,4,2,,0.4761904761904762,0.9
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,21,4,,,0.4761904761904762,0.9
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,21,4,,,0.4761904761904762,0.9
+NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,21,4,2,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,21,4,,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,21,4,2,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,21,4,,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,21,2,2,,0.4761904761904762,0.6666666666666666
+NE,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,21,2,,,0.4761904761904762,0.6666666666666666
+NE,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,21,2,,,0.4761904761904762,0.6666666666666666
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,21,2,2,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,21,2,,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,21,2,,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,21,2,,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,21,4,2,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,21,4,,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,21,4,2,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,21,4,,,0.4761904761904762,0.75
+NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,21,5,2,,0.4761904761904762,0.5625
+NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,21,5,,,0.4761904761904762,0.5625
+NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,21,5,,,0.4761904761904762,0.5625
+NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,21,5,1,,0.4761904761904762,0.5625
+NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,21,5,,,0.4761904761904762,0.5625
+NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,21,5,,,0.4761904761904762,0.5625
+NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,21,5,2,1.00000000000000000000,0.4761904761904762,0.5625
+NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,21,5,,,0.4761904761904762,0.5625
+NE,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,15,5,2,,0.5357142857142857,0.7857142857142857
+NE,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,15,5,,,0.5357142857142857,0.7857142857142857
+NE,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,15,5,1,,0.5357142857142857,0.7857142857142857
+NE,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,15,5,,,0.5357142857142857,0.7857142857142857
+NE,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,15,5,2,,0.5357142857142857,0.7857142857142857
+NE,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,15,5,,,0.5357142857142857,0.7857142857142857
+NE,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,15,5,,,0.5357142857142857,0.7857142857142857
+NE,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,15,3,2,,0.5357142857142857,0.75
+NE,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,15,3,,,0.5357142857142857,0.75
+NE,Números racionales,Significados de los números racionales,Números racionales,quiz,15,3,1,,0.5357142857142857,0.75
+NE,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,15,3,,,0.5357142857142857,0.75
+NE,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,15,3,2,,0.5357142857142857,0.625
+NE,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,15,3,,,0.5357142857142857,0.625
+NE,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,15,3,1,,0.5357142857142857,0.625
+NE,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,15,3,,,0.5357142857142857,0.625
+NE,Números racionales,Decimales,Números decimales,lecture,15,1,1,,0.5357142857142857,0.5
+NE,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,15,1,,,0.5357142857142857,0.5
+NE,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,15,1,,,0.5357142857142857,0.5
+NE,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,15,1,,,0.5357142857142857,0.5
+NE,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,15,3,1,,0.5357142857142857,0.3333333333333333
+NE,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,15,3,,,0.5357142857142857,0.3333333333333333
+NE,Números racionales,Razón y proporción,Cantidad desconocida,quiz,15,3,,,0.5357142857142857,0.3333333333333333
+NE,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,15,3,1,,0.5357142857142857,0.3333333333333333
+NE,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,15,3,,,0.5357142857142857,0.3333333333333333
+NE,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,15,3,,,0.5357142857142857,0.3333333333333333
+NE,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,15,3,,,0.5357142857142857,0.3333333333333333
+NE,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,15,3,1,1.00000000000000000000,0.5357142857142857,0.3333333333333333
+NE,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,15,3,,,0.5357142857142857,0.3333333333333333
+NE,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,16,5,2,,0.4583333333333334,0.8333333333333333
+NE,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,16,5,,,0.4583333333333334,0.8333333333333333
+NE,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,16,5,1,,0.4583333333333334,0.8333333333333333
+NE,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,16,5,2,,0.4583333333333334,0.8333333333333333
+NE,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,16,5,,,0.4583333333333334,0.8333333333333333
+NE,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,16,5,,,0.4583333333333334,0.8333333333333333
+NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,16,3,2,,0.4583333333333334,0.75
+NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,16,3,,,0.4583333333333334,0.75
+NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,16,3,1,,0.4583333333333334,0.75
+NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,16,3,,,0.4583333333333334,0.75
+NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,16,3,2,,0.4583333333333334,0.7
+NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,16,3,,,0.4583333333333334,0.7
+NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,16,3,1,,0.4583333333333334,0.7
+NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,16,3,,,0.4583333333333334,0.7
+NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,16,3,,,0.4583333333333334,0.7
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,16,5,2,,0.4583333333333334,0.3703703703703704
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,16,5,,,0.4583333333333334,0.3703703703703704
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,16,5,,,0.4583333333333334,0.3703703703703704
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,16,5,1,,0.4583333333333334,0.3703703703703704
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,16,5,2,,0.4583333333333334,0.3703703703703704
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,16,5,,,0.4583333333333334,0.3703703703703704
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del módulo,supplement,16,5,,,0.4583333333333334,0.3703703703703704
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,16,5,,,0.4583333333333334,0.3703703703703704
+NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Bibliografía geometría elemental del plano,supplement,16,5,,,0.4583333333333334,0.3703703703703704
+NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,7,2,1,,0.28846153846153844,0.5714285714285714
+NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,7,2,,,0.28846153846153844,0.5714285714285714
+NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,7,2,,,0.28846153846153844,0.5714285714285714
+NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,7,2,1,,0.28846153846153844,0.5714285714285714
+NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,7,2,,,0.28846153846153844,0.5714285714285714
+NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,7,2,,,0.28846153846153844,0.5714285714285714
+NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,7,2,,,0.28846153846153844,0.5714285714285714
+NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,7,1,1,,0.28846153846153844,0.5
+NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,7,1,,,0.28846153846153844,0.5
+NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,7,1,,,0.28846153846153844,0.5
+NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,7,1,,,0.28846153846153844,0.5
+NE,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,7,1,1,,0.28846153846153844,0.6666666666666666
+NE,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,7,1,,,0.28846153846153844,0.6666666666666666
+NE,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,7,1,,,0.28846153846153844,0.6666666666666666
+NE,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,7,1,1,,0.28846153846153844,0.5
+NE,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,7,1,,,0.28846153846153844,0.5
+NE,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,7,1,,,0.28846153846153844,0.5
+NE,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,7,1,,,0.28846153846153844,0.5
+NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,7,2,1,,0.28846153846153844,0.3125
+NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,7,2,,,0.28846153846153844,0.3125
+NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,7,2,,,0.28846153846153844,0.3125
+NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,7,2,1,,0.28846153846153844,0.3125
+NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,7,2,,,0.28846153846153844,0.3125
+NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,7,2,,,0.28846153846153844,0.3125
+NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,7,2,,,0.28846153846153844,0.3125
+NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,7,2,,,0.28846153846153844,0.3125
+NE,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,,,,,,
+NE,Aplicación de los conceptos aprendidos,Cierre del curso,Mapa conceptual de los conceptos aprendidos en el curso,supplement,,,,,,
+NE,Aplicación de los conceptos aprendidos,Cierre del curso,Aplicación de los conceptos aprendidos,quiz,,,,,,
+NE,Aplicación de los conceptos aprendidos,Cierre del curso,Video de cierre del curso,lecture,,,,,,
+T,Bienvenida,Bienvenida al curso,Bienvenida,lecture,19,19,10,,0.5909090909090909,0.5909090909090909
+T,Bienvenida,Bienvenida al curso,Presentación del curso,others,19,19,,,0.5909090909090909,0.5909090909090909
+T,Bienvenida,Bienvenida al curso,Introducción al curso,lecture,19,19,9,,0.5909090909090909,0.5909090909090909
+T,Bienvenida,Bienvenida al curso,Recomendaciones para el éxito,others,19,19,,,0.5909090909090909,0.5909090909090909
+T,Números naturales y sistemas de numeración,Origen de los números naturales,Origen de los números naturales,lecture,137,45,11,,0.7729885057471265,0.8452380952380952
+T,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual del origen de los números naturales,supplement,137,45,,,0.7729885057471265,0.8452380952380952
+T,Números naturales y sistemas de numeración,Origen de los números naturales,¿Qué sabes del número natural?,quiz,137,45,12,,0.7729885057471265,0.8452380952380952
+T,Números naturales y sistemas de numeración,Origen de los números naturales,Historia de los números naturales,lecture,137,45,11,,0.7729885057471265,0.8452380952380952
+T,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual de la historia de los números naturales,supplement,137,45,,,0.7729885057471265,0.8452380952380952
+T,Números naturales y sistemas de numeración,Origen de los números naturales,Relación de correspondencia,quiz,137,45,11,,0.7729885057471265,0.8452380952380952
+T,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,137,45,,,0.7729885057471265,0.8452380952380952
+T,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,137,10,10,,0.7729885057471265,0.7727272727272727
+T,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,137,10,,,0.7729885057471265,0.7727272727272727
+T,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,137,10,,,0.7729885057471265,0.7727272727272727
+T,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,137,10,,,0.7729885057471265,0.7727272727272727
+T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,137,19,10,,0.7729885057471265,0.86
+T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,137,19,9,,0.7729885057471265,0.86
+T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,137,19,,,0.7729885057471265,0.86
+T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,137,19,,,0.7729885057471265,0.86
+T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,137,19,,,0.7729885057471265,0.86
+T,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,137,21,11,,0.7729885057471265,0.7954545454545454
+T,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,137,21,10,,0.7729885057471265,0.7954545454545454
+T,Números naturales y sistemas de numeración,Representación de los números naturales,Mapa conceptual de las representaciones de los números naturales,supplement,137,21,,,0.7729885057471265,0.7954545454545454
+T,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,137,21,,,0.7729885057471265,0.7954545454545454
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,¿Qué es el  sistema  decimal de  numeración  ?,lecture,137,42,10,,0.7729885057471265,0.7962962962962963
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del sistema decimal de numeración,supplement,137,42,,,0.7729885057471265,0.7962962962962963
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Sistemas de numeración,quiz,137,42,11,,0.7729885057471265,0.7962962962962963
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Reglas del sistema de numeración (actividad de aprendizaje),ungraded lti,137,42,,,0.7729885057471265,0.7962962962962963
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,137,42,9,,0.7729885057471265,0.7962962962962963
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,137,42,,,0.7729885057471265,0.7962962962962963
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,137,42,,,0.7729885057471265,0.7962962962962963
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,137,42,12,1.6666666666666667,0.7729885057471265,0.7962962962962963
+T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,137,42,,,0.7729885057471265,0.7962962962962963
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,97,18,9,,0.6279761904761905,0.911111111111111
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,97,18,,,0.6279761904761905,0.911111111111111
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,97,18,9,,0.6279761904761905,0.911111111111111
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,97,18,,,0.6279761904761905,0.911111111111111
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,97,18,,,0.6279761904761905,0.911111111111111
+T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,97,17,8,,0.6279761904761905,0.8333333333333334
+T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,97,17,,,0.6279761904761905,0.8333333333333334
+T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,97,17,9,,0.6279761904761905,0.8333333333333334
+T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,97,17,,,0.6279761904761905,0.8333333333333334
+T,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,97,8,8,,0.6279761904761905,0.875
+T,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,97,8,,,0.6279761904761905,0.875
+T,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,97,8,,,0.6279761904761905,0.875
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,97,9,8,,0.6279761904761905,0.8125
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,97,9,,,0.6279761904761905,0.8125
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,97,9,1,,0.6279761904761905,0.8125
+T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,97,9,,,0.6279761904761905,0.8125
+T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,97,17,8,,0.6279761904761905,0.8055555555555556
+T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,97,17,,,0.6279761904761905,0.8055555555555556
+T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,97,17,9,,0.6279761904761905,0.8055555555555556
+T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,97,17,,,0.6279761904761905,0.8055555555555556
+T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,97,28,8,,0.6279761904761905,0.6666666666666666
+T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,97,28,,,0.6279761904761905,0.6666666666666666
+T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,97,28,,,0.6279761904761905,0.6666666666666666
+T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,97,28,8,,0.6279761904761905,0.6666666666666666
+T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,97,28,,,0.6279761904761905,0.6666666666666666
+T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,97,28,,,0.6279761904761905,0.6666666666666666
+T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,97,28,12,1.7500000000000000,0.6279761904761905,0.6666666666666666
+T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,97,28,,,0.6279761904761905,0.6666666666666666
+T,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,105,26,9,,0.6011904761904762,0.8095238095238095
+T,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,105,26,,,0.6011904761904762,0.8095238095238095
+T,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,105,26,9,,0.6011904761904762,0.8095238095238095
+T,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,105,26,,,0.6011904761904762,0.8095238095238095
+T,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,105,26,8,,0.6011904761904762,0.8095238095238095
+T,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,105,26,,,0.6011904761904762,0.8095238095238095
+T,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,105,26,,,0.6011904761904762,0.8095238095238095
+T,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,105,17,8,,0.6011904761904762,0.7777777777777778
+T,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,105,17,,,0.6011904761904762,0.7777777777777778
+T,Números racionales,Significados de los números racionales,Números racionales,quiz,105,17,9,,0.6011904761904762,0.7777777777777778
+T,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,105,17,,,0.6011904761904762,0.7777777777777778
+T,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,105,17,8,,0.6011904761904762,0.7777777777777778
+T,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,105,17,,,0.6011904761904762,0.7777777777777778
+T,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,105,17,9,,0.6011904761904762,0.7777777777777778
+T,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,105,17,,,0.6011904761904762,0.7777777777777778
+T,Números racionales,Decimales,Números decimales,lecture,105,9,8,,0.6011904761904762,0.75
+T,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,105,9,,,0.6011904761904762,0.75
+T,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,105,9,1,,0.6011904761904762,0.75
+T,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,105,9,,,0.6011904761904762,0.75
+T,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,105,36,8,,0.6011904761904762,0.6574074074074073
+T,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,105,36,,,0.6011904761904762,0.6574074074074073
+T,Números racionales,Razón y proporción,Cantidad desconocida,quiz,105,36,9,,0.6011904761904762,0.6574074074074073
+T,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,105,36,7,,0.6011904761904762,0.6574074074074073
+T,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,105,36,,,0.6011904761904762,0.6574074074074073
+T,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,105,36,,,0.6011904761904762,0.6574074074074073
+T,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,105,36,,,0.6011904761904762,0.6574074074074073
+T,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,105,36,12,1.6666666666666667,0.6011904761904762,0.6574074074074073
+T,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,105,36,,,0.6011904761904762,0.6574074074074073
+T,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,97,25,8,,0.6250000000000001,0.8333333333333335
+T,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,97,25,,,0.6250000000000001,0.8333333333333335
+T,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,97,25,9,,0.6250000000000001,0.8333333333333335
+T,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,97,25,8,,0.6250000000000001,0.8333333333333335
+T,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,97,25,,,0.6250000000000001,0.8333333333333335
+T,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,97,25,,,0.6250000000000001,0.8333333333333335
+T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,97,18,9,,0.6250000000000001,0.8055555555555556
+T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,97,18,,,0.6250000000000001,0.8055555555555556
+T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,97,18,9,,0.6250000000000001,0.8055555555555556
+T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,97,18,,,0.6250000000000001,0.8055555555555556
+T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,97,17,8,,0.6250000000000001,0.7555555555555555
+T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,97,17,,,0.6250000000000001,0.7555555555555555
+T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,97,17,9,,0.6250000000000001,0.7555555555555555
+T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,97,17,,,0.6250000000000001,0.7555555555555555
+T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,97,17,,,0.6250000000000001,0.7555555555555555
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,97,37,8,,0.6250000000000001,0.6666666666666666
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,97,37,,,0.6250000000000001,0.6666666666666666
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,97,37,,,0.6250000000000001,0.6666666666666666
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,97,37,9,,0.6250000000000001,0.6666666666666666
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,97,37,8,,0.6250000000000001,0.6666666666666666
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,97,37,,,0.6250000000000001,0.6666666666666666
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del módulo,supplement,97,37,,,0.6250000000000001,0.6666666666666666
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,97,37,12,1.6666666666666667,0.6250000000000001,0.6666666666666666
+T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Bibliografía geometría elemental del plano,supplement,97,37,,,0.6250000000000001,0.6666666666666666
+T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,77,25,8,,0.6217948717948717,0.8095238095238096
+T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,77,25,,,0.6217948717948717,0.8095238095238096
+T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,77,25,9,,0.6217948717948717,0.8095238095238096
+T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,77,25,8,,0.6217948717948717,0.8095238095238096
+T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,77,25,,,0.6217948717948717,0.8095238095238096
+T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,77,25,,,0.6217948717948717,0.8095238095238096
+T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,77,25,,,0.6217948717948717,0.8095238095238096
+T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,77,8,8,,0.6217948717948717,0.75
+T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,77,8,,,0.6217948717948717,0.75
+T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,77,8,,,0.6217948717948717,0.75
+T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,77,8,,,0.6217948717948717,0.75
+T,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,77,8,8,,0.6217948717948717,0.8148148148148148
+T,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,77,8,,,0.6217948717948717,0.8148148148148148
+T,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,77,8,,,0.6217948717948717,0.8148148148148148
+T,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,77,8,8,,0.6217948717948717,0.7222222222222222
+T,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,77,8,,,0.6217948717948717,0.7222222222222222
+T,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,77,8,,,0.6217948717948717,0.7222222222222222
+T,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,77,8,,,0.6217948717948717,0.7222222222222222
+T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,77,28,8,,0.6217948717948717,0.7083333333333334
+T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,77,28,,,0.6217948717948717,0.7083333333333334
+T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,77,28,,,0.6217948717948717,0.7083333333333334
+T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,77,28,8,,0.6217948717948717,0.7083333333333334
+T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,77,28,,,0.6217948717948717,0.7083333333333334
+T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,77,28,,,0.6217948717948717,0.7083333333333334
+T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,77,28,12,1.5833333333333333,0.6217948717948717,0.7083333333333334
+T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,77,28,,,0.6217948717948717,0.7083333333333334
+T,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,15,15,,,0.8125,0.8125
+T,Aplicación de los conceptos aprendidos,Cierre del curso,Mapa conceptual de los conceptos aprendidos en el curso,supplement,15,15,,,0.8125,0.8125
+T,Aplicación de los conceptos aprendidos,Cierre del curso,Aplicación de los conceptos aprendidos,quiz,15,15,8,,0.8125,0.8125
+T,Aplicación de los conceptos aprendidos,Cierre del curso,Video de cierre del curso,lecture,15,15,7,,0.8125,0.8125
